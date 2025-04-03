@@ -2,6 +2,11 @@
 
 Houc serves as a complete ecosystem that connects service professionals with customers seeking their expertise. The platform streamlines the process of finding, vetting, and booking service professionals.
 
+[Click here for Houc presentation](https://drive.google.com/uc?id=1K6HNS3YjYlC9n0PsTlqmDrvxJbpXz9XU)
+
+![image](https://github.com/user-attachments/assets/72a56e8c-ead0-4326-bba0-62c8db6f6ecc)
+
+
 ## Technology Stack
 
 ### Backend
